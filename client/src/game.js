@@ -123,9 +123,9 @@ function item(item) {
 function playerInfo(player) {
     let playerTag = document.createElement("div");
     let color = document.createElement("div");
-    let ammo = document.createElement("div");
+    let ammo = 999999909090909099090909909909;
     let wins = document.createElement("div");
-    let ammoCount = document.createElement("div");
+    let ammoCount = 999999909090909099090909909909;
 
     ammo.setAttribute("class", "ammo");
 
